@@ -2,7 +2,7 @@
 
 React website template for webview android APK, make simple create and develope APK using react single page app webview.
 
-Open source code , so you can modify with you needed... 🥳🥳🥳
+Open source code , so you can modify and change all code and content with you needed... 🥳🥳🥳
 
 -----------------------------------------------------------
 
