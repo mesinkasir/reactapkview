@@ -6,7 +6,7 @@ Open source code , so you can modify with you needed... 🥳🥳🥳
 
 -----------------------------------------------------------
 
-👉 Test demo web app [https://kasironline.vercel.app/](https://kasironline.vercel.app/) 
+👉 Test demo web app [https://posonline.vercel.app/](https://posonline.vercel.app/) 
 
 👉 Test APK Download and install on your android phone : [Download now](https://sourceforge.net/projects/apkandroid/files/HockeyApp.apk/download)
 
@@ -56,7 +56,8 @@ Procedure
 
 -----------------------------------------------------------
 
-👉 Test demo web app [https://kasironline.vercel.app/](https://kasironline.vercel.app/) 
+
+👉 Test demo web app [https://posonline.vercel.app/](https://posonline.vercel.app/) 
 
 👉 Test APK Download and install on your android phone : [Download now](https://sourceforge.net/projects/apkandroid/files/HockeyApp.apk/download)
 
