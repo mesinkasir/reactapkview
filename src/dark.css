@@ -1,0 +1,13 @@
+@import url("http://fonts.cdnfonts.com/css/ashley");
+html,
+body,
+p {
+  font: 1000 1.415rem/1.505rem "Ashley", sans-serif;
+}
+@font-face {
+  font-family: "Ashley";
+  font-style: normal;
+  font-weight: 5;
+  src: local("Ashley"),
+    url("https://fonts.cdnfonts.com/s/9377/ASHLEY__.woff") format("woff");
+}
