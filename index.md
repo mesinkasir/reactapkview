@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+# React Website themes template for APK android
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/reactapkview/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+React website template for webview android APK, make simple create and develope APK using react single page app webview.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Open source code , so you can modify and change all code and content with you needed... 🥳🥳🥳
 
-### Markdown
+-----------------------------------------------------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+👉 Test demo web app [https://posonline.vercel.app/](https://posonline.vercel.app/) 
 
-```markdown
-Syntax highlighted code block
+👉 Test APK Download and install on your android phone : [Download now](https://github.com/mesinkasir/reactapkview/blob/main/reactapps.apk)
 
-# Header 1
-## Header 2
-### Header 3
+🎮 Dark mode Premium test drive here [https://kasironline.vercel.app/](https://kasironline.vercel.app/)
 
-- Bulleted
-- List
+👉 Test APK Download Dark mode and install on your android phone : [Download APK](https://sourceforge.net/projects/apkandroid/files/HockeyApp.apk/download)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Documentation installation and live source code 
+[https://www.hockeycomputindo.com/2021/02/how-to-create-android-apk-with-react.html](https://www.hockeycomputindo.com/2021/02/how-to-create-android-apk-with-react.html)
 
-[Link](url) and ![Image](src)
-```
+Video demo [play video](https://youtu.be/xBpN3F5uKPw)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---------------------------------------------------
 
-### Jekyll Themes
+### Display APK webview
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/reactapkview/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![React Website themes template for APK android](https://1.bp.blogspot.com/-UiwNOdUR3R4/YDFUUiJgpfI/AAAAAAAAM_I/jXKS8B4kyK01aR5rVcDMaPvWnF5ubQAEgCLcBGAsYHQ/s638/react%2Bapk%2Bandroid%2Bfree%2Bdownload%2Bsource%2Bcode%2B%25286%2529.png)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![React Website themes template for APK android](https://1.bp.blogspot.com/-OBO-Qjrfty4/YDFUUF9PZcI/AAAAAAAAM_E/VAwIE8ylwaIwtjeZpejisja-_bFZKnC2QCLcBGAsYHQ/s604/react%2Bapk%2Bandroid%2Bfree%2Bdownload%2Bsource%2Bcode%2B%25284%2529.png)
+
+
+![React Website themes template for APK android](https://1.bp.blogspot.com/-nJuOP0CySV4/YDFUUu_bkSI/AAAAAAAAM_M/qmjhyzTD1e4NWxC_msVcst66tP0Ho_GYQCLcBGAsYHQ/s658/react%2Bapk%2Bandroid%2Bfree%2Bdownload%2Bsource%2Bcode%2B%25285%2529.png)
+
+
+![React Website themes template for APK android](https://1.bp.blogspot.com/-mDcpPvNnZ84/YDFUS_FqgkI/AAAAAAAAM-8/hpytM32mKwwF7AvHQxB7ilohpJNOuGaiwCLcBGAsYHQ/s582/react%2Bapk%2Bandroid%2Bfree%2Bdownload%2Bsource%2Bcode%2B%25283%2529.png)
+
+
+![React Website themes template for APK android](https://1.bp.blogspot.com/-3klX-spt3os/YDFUTCdq14I/AAAAAAAAM_A/8aae298gBIgYSWGNwZX3XEQrryNRFdmYwCLcBGAsYHQ/s686/react%2Bapk%2Bandroid%2Bfree%2Bdownload%2Bsource%2Bcode%2B%25282%2529.png)
+
+
+----------------------------------------------
+Procedure
+
++ download this source code
++ install node npm
++ install react 
++ npm install
++ npm start
++ npm build
++ deploy on host
++ ready online
++ android studio webview
++ run build APK
++ and apk android is ready
+
+-----------------------------------------------------------
+
+
+👉 Test demo web app [https://posonline.vercel.app/](https://posonline.vercel.app/) 
+
+👉 Test APK Download and install on your android phone : [Download now](https://github.com/mesinkasir/reactapkview/blob/main/reactapps.apk)
+
+🎮 Dark mode Premium test drive here [https://kasironline.vercel.app/](https://kasironline.vercel.app/)
+
+👉 Test APK Download Dark mode and install on your android phone : [Download APK](https://sourceforge.net/projects/apkandroid/files/HockeyApp.apk/download)
+
+
+Documentation installation and live source code 
+[https://www.hockeycomputindo.com/2021/02/how-to-create-android-apk-with-react.html](https://www.hockeycomputindo.com/2021/02/how-to-create-android-apk-with-react.html)
+
+Video demo [play video](https://youtu.be/xBpN3F5uKPw)
+
+-------------------------------------------------------------
+
+### Buy me a coffee :hearts: ✌🏻
+
+:coffee: :coffee: :coffee: 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
